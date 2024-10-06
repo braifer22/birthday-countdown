@@ -5,5 +5,14 @@
   "dependencies": {
     "@fontsource-variable/inter": "^5.0.16",
     "@midudev/tailwind-animations": "^0.0.7"
-  }
+  },
+  "name": "birthday-countdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alexis Molina",
+  "license": "ISC",
+  "description": ""
 }
